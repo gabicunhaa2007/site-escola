@@ -1,0 +1,9 @@
+header {
+    background-color: #338D58;
+ color:white;
+  display:flex;
+ justify-content: space-around;
+}
+.cabeçalho-imagem{
+    widht:20%
+}
